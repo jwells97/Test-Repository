@@ -1,0 +1,47 @@
+Making a report for Data Science:
+
+-Cover Page
+  -title of report
+  -names of authors
+  -contact info
+  -name of institutional publisher
+  -date of publication
+-Table of Contents
+  -main headings
+  -lists of tables and figures
+-Executive Summary/Introduction to Problem
+  -explaining the crux of the argument in a brief summary
+  -follow up to the summary should be review of relevant
+research on the subject matter.
+-Methodology
+  -introduce research methods and data sources used
+  -for new data, explain the data collection exercise in detail
+-Results
+  -present empirical findings
+-Discussion
+  -crafting main arguments by building on results
+  -where you rely on narrative to take over and enable numbers
+to properly communicate my thesis.
+-Conclusion
+  -generalize specific findings and take on a "marketing approach"
+  -also identify future possible developments based on research
+and findings.
+-References and acknowledgment section
+  -list any body of work used in research and findings.
+  -list any support offered by those who made work possible.
+
+Report Checklist:
+
+Have you told readers, at the outset, what they might gain by reading your paper?
+
+Have you made the aim of your work clear?
+
+Have you explained the significance of your contribution?
+
+Have you set your work in the appropriate context by giving sufficient background (including a complete set of relevant references) to your work?
+
+Have you addressed the question of practicality and usefulness?
+
+Have you identified future developments that might result from your work?
+
+Have you structured your paper in a clear and logical fashion?
